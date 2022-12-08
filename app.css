@@ -68,6 +68,10 @@ button {
   cursor: pointer;
 }
 
+.droppable {
+  background: #ff0c88;
+}
+
 button.alt {
   background: white;
   color: #ff0062;
